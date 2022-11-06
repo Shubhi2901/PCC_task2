@@ -1,0 +1,37 @@
+body {
+    background-image: url('fo.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 100%;
+    background-position: center center;
+    position: relative;
+}
+.img1{
+    position: absolute;
+    padding-top: 1%;
+    top: 20px;
+    left: 10px;
+    height: 150px;
+    width: 150px;
+  }
+  .img2{
+    position: absolute;
+   
+    top: 50px;
+    right: 10px;
+    height: 120px;
+    width: 120px;
+  }
+.timeCSS {
+    position:absolute;
+    text-align: center;
+    color: brown;
+    width: 1170px;
+    margin: auto;
+    top: 50%;
+    padding-top: 20%;
+    padding-left: 15%;
+    font-size: 400%;
+
+}
